@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-clipboard",
+  "downloads": null,
+  "version": "2.0.4",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Modern copy to clipboard. No Flash. Just 3kb",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/zenorocha/clipboard.js",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/zenorocha/clipboard.js",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/zenorocha/clipboard.js",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
